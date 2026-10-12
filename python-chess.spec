@@ -1,6 +1,6 @@
 Name:		python-chess
 Version:	1.11.2
-Release:	1
+Release:	2
 Source0:	https://files.pythonhosted.org/packages/source/c/chess/chess-%{version}.tar.gz
 Summary:	A chess library with move generation and validation, Polyglot opening book probing, PGN reading and writing, Gaviota tablebase probing, Syzygy tablebase probing, and XBoard/UCI engine communication.
 URL:		https://pypi.org/project/chess/
